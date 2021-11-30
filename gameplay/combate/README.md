@@ -29,3 +29,10 @@ El **general** puede dar efectos a determinado tipo de unidades y sus estadísti
 * El **terreno** puede tener efecto sobre las unidades aliadas y enemigas
 * Los **ítems** pueden ser consumidos entre rondas para sumar efectos a la batalla.
 * Si la **moral** cae, las unidades pueden retirarse antes de la batalla.
+
+### Recompensa
+
+El ganador robará recursos al perdedor.&#x20;
+
+Ambos ganarán experiencia para el general usado en el combate.&#x20;
+

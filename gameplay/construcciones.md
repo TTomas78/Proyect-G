@@ -15,7 +15,7 @@ description: >-
 * **Murallas**, ofrecen defensa contra los ataques enemigos. Torre de vigilancia, avisa de ataques.
 * **Mejoras** de producción, aumentan la producción de recursos/m.
 * **Mejoras** para el bienestar de la población (+felicidad => +población/m).
-* **Altar**, rinde tributo a distintos dioses por mejoras en combate, recursos, o bienestar de la población.
+* **Altar**, rinde tributo a distintos dioses por mejoras en combate, **elementos**, o bienestar de la población.
 * **Embajada**, desbloquea la diplomacia, la creación y unión a alianzas.
 * **Almacenes**, aseguran un % de recursos en caso de ataques enemigos. Aumentan la cantidad de recursos que se pueden guardar en la ciudad.
 * **Mercado**, desbloquea el comercio de recursos y tropas.

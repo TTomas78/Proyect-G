@@ -8,11 +8,11 @@ description: >-
 
 ### Tipos de recursos
 
-El mundo actualmente consta de 4 recursos basicos y 4 elementales. Todos los recursos se utilizan para generar la mayoria de las entidades, lo que varia es la proporcion necesaria de cada uno.
+El mundo actualmente consta de 4 recursos básicos y 4 elementales. Todos los recursos se utilizan para generar la mayoría de las entidades, lo que varia es la proporción necesaria de cada uno.
 
 **Madera:** Es el principal componente de algunos edificios y barcos
 
-**Cereal:** Sirve principalmente para alimentar a las unidades y a la poblacion
+**Cereal:** Sirve principalmente para alimentar a las unidades y a la población
 
 **Piedra:** Es el componente principal de los edificios y sus mejoras
 

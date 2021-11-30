@@ -2,6 +2,8 @@
 description: >-
   Los elementos son otro tipo de recurso, mas valioso y necesario para la
   progresión en cualquiera de sus 4 variantes.
+cover: ../.gitbook/assets/fposter,small,wall_texture,product,750x1000.u8.jpg
+coverY: 64.05895691609977
 ---
 
 # Elementos
@@ -14,9 +16,9 @@ description: >-
 
 **Agua:** Bienestar y curaciones
 
-**Tierra:** Crecimiento y construcción
+**Tierra:** Crecimiento, construcción y defensa
 
-**Fuego:** Guerra
+**Fuego:** Guerra y saqueos
 
 **Aire:** Paz? Comercio?&#x20;
 

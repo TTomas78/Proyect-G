@@ -14,13 +14,13 @@ coverY: 64.05895691609977
 
 ### Tipo de elementos
 
-**Agua:** Bienestar y curaciones
+****:ocean:**Agua:** Bienestar y curaciones
 
-**Tierra:** Crecimiento, construcción y defensa
+****:rock:**Tierra:** Crecimiento, construcción y defensa
 
-**Fuego:** Guerra y saqueos
+****:fire:**Fuego:** Guerra y saqueos
 
-**Aire:** Paz? Comercio?&#x20;
+****:leaves:**Aire:** Paz? Comercio?&#x20;
 
 ### **Limitaciones**
 

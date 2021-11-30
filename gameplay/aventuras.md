@@ -8,3 +8,4 @@ description: >-
 
 ### Objetivo
 
+El objetivo de las aventuras es introducir al jugador al lore del juego, obligandolo a optar por distintos caminos al mismo tiempo que le ira otorgando recompensas&#x20;

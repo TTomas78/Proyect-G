@@ -1,14 +1,21 @@
 ---
 description: >-
-  Los recursos pueden ser producidos en las ciudades, obtenidos en las
-  aventuras, saqueados a otro jugador u obtenidos a traves del comercio.
+  Los recursos son esenciales para la construcción, las unidades y toda la
+  progresión en el juego.
 ---
 
 # Recursos
 
+### Formas de obtener recursos
+
+* Son producidos en las ciudades.
+* Como recompensa de las aventuras.
+* Saqueando a otro jugador.
+* A través del comercio con otros jugadores.
+
 ### Tipos de recursos
 
-El mundo actualmente consta de 4 recursos básicos y 4 elementales. Todos los recursos se utilizan para generar la mayoría de las entidades, lo que varia es la proporción necesaria de cada uno.
+El mundo consta de 4 recursos **básicos** y 4 **elementales**. Todos los recursos se utilizan para generar la mayoría de las entidades, lo que varia es la proporción necesaria de cada uno.
 
 **Madera:** Es el principal componente de algunos edificios y barcos
 

@@ -22,6 +22,7 @@
 * [Aventuras](gameplay/aventuras.md)
 * [Progresion](gameplay/progresion.md)
 * [Items](gameplay/items.md)
+* [Personajes](gameplay/personajes.md)
 
 ## MARKETPLACE
 

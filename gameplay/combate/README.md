@@ -4,9 +4,9 @@ description: Sistema de combate por cálculo general de estadísticas
 
 # Combate
 
-* Combate por rondas cada 10 minutos.
+* Combate por rondas cada 10 minutos.&#x20;
 * Se requieren Recursos naturales y/o recursos elementales para generar unidades.
-* Las unidades del mismo elemento que el general, tienen menor coste del recurso elemental en cuestión.
+* ~~Las unidades del mismo elemento que el general, tienen menor coste del recurso elemental en cuestión.~~
 
 ### &#x20;Estadísticas:&#x20;
 
@@ -28,7 +28,8 @@ El **general** puede dar efectos a determinado tipo de unidades y sus estadísti
 
 * El **terreno** puede tener efecto sobre las unidades aliadas y enemigas
 * Los **ítems** pueden ser consumidos entre rondas para sumar efectos a la batalla.
-* Si la **moral** cae, las unidades pueden retirarse antes de la batalla.
+* Si la **moral** cae, las unidades pueden retirarse antes de la batalla. También puede ser un potenciador de combate.
+* La moral cae con mas fuerza a medida que el numero de rondas aumenta.
 
 ### Recompensa
 

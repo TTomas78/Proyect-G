@@ -10,4 +10,4 @@ description: Islas con parcelas de terreno.
 
 * Tienen distintas características de producción y/o mejoras de combate por el tipo de terreno.
 * La característica más importante es que tipo de recursos puede producir, y la eficiencia con la que lo pueden producir.
-* Todos los terrenos producen madera, el cual es el recurso más básico de construcción.
+* Todos los terrenos producen los 4 recursos.

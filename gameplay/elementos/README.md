@@ -2,7 +2,7 @@
 description: >-
   Los elementos son otro tipo de recurso, mas valioso y necesario para la
   progresión en cualquiera de sus 4 variantes.
-cover: ../.gitbook/assets/fposter,small,wall_texture,product,750x1000.u8.jpg
+cover: ../../.gitbook/assets/fposter,small,wall_texture,product,750x1000.u8.jpg
 coverY: 64.05895691609977
 ---
 
@@ -24,4 +24,4 @@ coverY: 64.05895691609977
 
 ### **Limitaciones**
 
-Solo se puede tener 1 elemento como principal. ~~y 1 secundario~~
+Solo se puede tener 1 elemento como principal, dependiendo de cual sea este, puede interiorizarse en elementos secundarios especificos con mayor facilidad o no, en algunos casos, introducirse mas en otros elementos traera consigo una penalizacion a aquellos elementos con los que el jugador ya se relacione.  ~~y 1 secundario~~
